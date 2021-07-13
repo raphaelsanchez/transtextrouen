@@ -93,6 +93,7 @@ footer {
 }
 
 .button {
+  display: inline-block;
   padding: .75em 1em;
   background-color: var(--color-accent);
   font-size: 1.2em;
@@ -104,7 +105,7 @@ footer {
 }
 
 .lead {
-  font-size: 1.8rem;
+  font-size: 1.4em;
 }
 .text-center {
   text-align: center;
